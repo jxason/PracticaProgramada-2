@@ -1,0 +1,48 @@
+CREATE DATABASE IF NOT EXISTS PracticaProgramada2;
+USE PracticaProgramada2;
+
+-- Tabla de Proveedores (Suppliers)
+CREATE TABLE suppliers (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    contact_name VARCHAR(255),
+    phone VARCHAR(20),
+    email VARCHAR(255),
+    address TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Tabla de Productos (Products)
+CREATE TABLE products (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    description TEXT,
+    price DECIMAL(10,2) NOT NULL,
+    stock INT NOT NULL,
+    supplier_id INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (supplier_id) REFERENCES suppliers(id) ON DELETE SET NULL
+);
+
+-- Tabla de Clientes (Customers)
+CREATE TABLE customers (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(255) NOT NULL,
+    last_name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) UNIQUE NOT NULL,
+    phone VARCHAR(20),
+    address TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE Prueba (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(255) NOT NULL
+);
+
+-- Inserción de datos de ejemplo en Customers
+INSERT INTO Prueba (first_name) VALUES
+('Juan', 'Perez', 'juan.perez@example.com', '12345678', 'Calle 1, Ciudad X'),
+('Maria', 'Lopez', 'maria.lopez@example.com', '87654321', 'Calle 2, Ciudad Y'),
+('Carlos', 'Rodriguez', 'carlos.rod@example.com', '11223344', 'Calle 3, Ciudad Z');
+
