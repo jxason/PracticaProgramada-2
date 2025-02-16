@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/TareaGrupal/.vs/TareaGrupal/FileContentIndex/1206ead7-8926-4f30-b8e4-1be28e0ca001.vsidx
+/TareaGrupal/.vs/TareaGrupal/FileContentIndex/1acc0bb3-c9ca-4886-a326-5c26dccf669b.vsidx
+*.vsidx
