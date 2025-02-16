@@ -1,0 +1,32 @@
+﻿@model IEnumerable<TareaGrupal.Models.Supplier>
+<a href="/Product/Create">Agregar</a>
+<h2>Suppliers</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var supplier in Model)
+        {
+            <tr>
+                <td>@supplier.id</td>
+                <td>@supplier.name</td>
+                <td>@supplier.description</td>
+                <td>@supplier.price</td>
+                <td>@supplier.stock</td>
+                
+                <td>
+                    <a href="/Supplier/Edit/@supplier.id">Editar</a>
+                    <a href="/Supplier/Delete/@supplier.id"> Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
