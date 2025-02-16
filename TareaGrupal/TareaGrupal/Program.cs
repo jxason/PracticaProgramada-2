@@ -1,4 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using TareaGrupal.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Conexion al appsettings
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+    new MySqlServerVersion(new Version(8, 0, 25))));  // Asegúrate de usar la versión de tu servidor MySQL
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -22,6 +30,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Product}/{action=Index}/{id?}");
 
 app.Run();

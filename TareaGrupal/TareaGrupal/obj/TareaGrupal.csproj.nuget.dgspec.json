@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsolo\\source\\repos\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj": {}
+    "C:\\Users\\Carlos Oviedo Gomez\\source\\repos\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsolo\\source\\repos\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj": {
+    "C:\\Users\\Carlos Oviedo Gomez\\source\\repos\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsolo\\source\\repos\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Oviedo Gomez\\source\\repos\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj",
         "projectName": "TareaGrupal",
-        "projectPath": "C:\\Users\\jsolo\\source\\repos\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj",
-        "packagesPath": "C:\\Users\\jsolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsolo\\source\\repos\\TareaGrupal\\TareaGrupal\\obj\\",
+        "projectPath": "C:\\Users\\Carlos Oviedo Gomez\\source\\repos\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\TareaGrupal.csproj",
+        "packagesPath": "C:\\Users\\Carlos Oviedo Gomez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Oviedo Gomez\\Source\\Repos\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jsolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carlos Oviedo Gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,12 +44,20 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.5, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -78,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

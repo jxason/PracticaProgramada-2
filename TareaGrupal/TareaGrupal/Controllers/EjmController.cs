@@ -20,7 +20,7 @@ namespace WebApplication2.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var Prueba = await _context.Prueba.ToListAsync();
+            //var Prueba = await _context.Prueba.ToListAsync();
             return View(Prueba);
         }
 
@@ -44,8 +44,8 @@ namespace WebApplication2.Controllers
         }
         public async Task<IActionResult> Edit(int id)
         {
-            var producto = await _context.Prueba.FindAsync(id);
-            if (producto == null)
+            //var producto = await _context.Prueba.FindAsync(id);
+           // if (producto == null)
             {
                 return NotFound();
             }
@@ -56,7 +56,7 @@ namespace WebApplication2.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(int id, Ejm prueba)
         {
-            if (id != prueba.Id)
+            if (id != prueba.id)
             {
                 return NotFound();
             }
@@ -70,34 +70,34 @@ namespace WebApplication2.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!PruebaExists(prueba.Id))
+                    /*if (!PruebaExists(prueba.id))
                     {
                         return NotFound();
                     }
                     else
                     {
                         throw;
-                    }
+                    }*/
                 }
                 return RedirectToAction(nameof(Index));
             }
             return View(Prueba);
         }
 
-        public async Task<IActionResult> Delete(int id)
+        /*public async Task<IActionResult> Delete(int id)
         {
-            var prueba = await _context.Prueba.FindAsync(id);
+            //var prueba = await _context.Prueba.FindAsync(id);
             if (prueba == null)
             {
                 return NotFound();
             }
             return View(prueba);
-        }
+        }*/
 
         [HttpPost]
         public async Task<IActionResult> Delete(int id, Ejm prueba)
         {
-            if (id != prueba.Id)
+            if (id != prueba.id)
             {
                 return NotFound();
             }
@@ -111,14 +111,14 @@ namespace WebApplication2.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!PruebaExists(prueba.Id))
+                    /*if (!PruebaExists(prueba.id))
                     {
                         return NotFound();
                     }
                     else
                     {
                         throw;
-                    }
+                    }*/
                 }
                 return RedirectToAction(nameof(Index));
             }
@@ -126,10 +126,10 @@ namespace WebApplication2.Controllers
         }
 
         // Verificar si el producto existe
-        private bool PruebaExists(int id)
+        /*private bool PruebaExists(int id)
         {
-            return _context.Prueba.Any(e => e.id == id);
-        }
+           return _context.Prueba.Any(e => e.id == id);
+        }*/
 
 
     }
