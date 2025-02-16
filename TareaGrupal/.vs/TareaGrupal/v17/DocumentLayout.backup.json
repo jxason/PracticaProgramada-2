@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|d:\\u\\prograavanzada\\practicagrp2\\practicaprogramada-2\\tareagrupal\\tareagrupal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26A5ABB1-B80F-4E6A-9916-A2EF2AFBF1A1}|TareaGrupal\\TareaGrupal.csproj|solutionrelative:tareagrupal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -90,24 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "additional-methods.js",
-              "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeDocumentMoniker": "TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeToolTip": "TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ViewState": "AgIAABQBAAAAAAAAAIAwwBABAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-16T03:14:23.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "TareaGrupal\\Views\\Customer\\Create.cshtml",
@@ -126,14 +113,14 @@
               "RelativeDocumentMoniker": "TareaGrupal\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "TareaGrupal\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T21:51:24.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TareaGrupal\\Views\\_ViewStart.cshtml",
@@ -145,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "TareaGrupal\\Views\\Customer\\Edit.cshtml",
@@ -158,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TareaGrupal\\Views\\_ViewImports.cshtml",
@@ -170,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TareaGrupal\\Data\\AppDbContext.cs",
@@ -183,7 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TareaGrupal\\Models\\Customer.cs",
+              "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Models\\Customer.cs",
+              "RelativeToolTip": "TareaGrupal\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:59:59.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Program.cs",
               "RelativeDocumentMoniker": "TareaGrupal\\Program.cs",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Customer\\Delete.cshtml",
               "RelativeDocumentMoniker": "TareaGrupal\\Views\\Customer\\Delete.cshtml",
@@ -209,7 +209,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TareaGrupal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TareaGrupal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T23:51:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "TareaGrupal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAABQBAAAAAAAAAIAwwBABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-16T03:14:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "TareaGrupal\\Views\\Customer\\Index.cshtml",
@@ -222,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "bootstrap.esm.js",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
               "RelativeDocumentMoniker": "TareaGrupal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
@@ -235,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "bootstrap.bundle.js",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
               "RelativeDocumentMoniker": "TareaGrupal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
@@ -248,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\appsettings.json",
               "RelativeDocumentMoniker": "TareaGrupal\\appsettings.json",
@@ -260,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TareaGrupal\\appsettings.Development.json",
@@ -272,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TareaGrupal\\Properties\\launchSettings.json",
@@ -293,18 +319,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-15T23:51:04.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TareaGrupal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TareaGrupal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T23:51:05.073Z"
             },
             {
               "$type": "Document",
@@ -329,40 +343,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-15T23:51:07.249Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "aaecde32-7bfe-405c-8af8-5f2662939d3f",
-        "Display": 1,
-        "X": 1,
-        "Y": 1,
-        "Width": 1358,
-        "Height": 718,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "TareaGrupal\\Models\\Customer.cs",
-              "ToolTip": "D:\\U\\Prograavanzada\\PracticaGRP2\\PracticaProgramada-2\\TareaGrupal\\TareaGrupal\\Models\\Customer.cs",
-              "RelativeToolTip": "TareaGrupal\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:59:59.115Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TareaGrupal.Models.Customer>
+<a href= "/Customer/Create">Agregar</a>
+
+
+<h2>Productos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Dirección</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.first_name</td>
+                <td>@customer.last_name</td>
+                <td>@customer.email</td>
+                <td>@customer.phone</td>
+                <td>@customer.address</td>
+                <td>
+                    <a href="/Customer/Edit/@customer.Id">Editar</a>
+                    <a href="/Customer/Delete/@customer.Id"> Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
