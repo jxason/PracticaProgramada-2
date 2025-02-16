@@ -8,13 +8,10 @@ namespace TareaGrupal.Data
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<supplier> suppliers { get; set; }
 
-        public DbSet<product> products { get; set; }
+        public DbSet<Customer> customers { get; set; }
 
-        public DbSet<customer> customers { get; set; }
-
-        public DbSet<Ejm> Prueba { get; set; }
+   
 
 
     }
