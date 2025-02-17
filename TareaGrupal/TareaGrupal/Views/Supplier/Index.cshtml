@@ -1,14 +1,15 @@
 ﻿@model IEnumerable<TareaGrupal.Models.Supplier>
-<a href="/Product/Create">Agregar</a>
-<h2>Suppliers</h2>
+<a href="/Supplier/Create">Agregar</a>
+<h2>Proveedores</h2>
 <table class="table">
     <thead>
         <tr>
             <th>Id</th>
             <th>Nombre</th>
-            <th>Descripcion</th>
-            <th>Precio</th>
-            <th>Stock</th>
+            <th>Contacto</th>
+            <th>Telefono</th>
+            <th>Correo</th>
+            <th>Direccion</th>
             
         </tr>
     </thead>
@@ -18,9 +19,10 @@
             <tr>
                 <td>@supplier.id</td>
                 <td>@supplier.name</td>
-                <td>@supplier.description</td>
-                <td>@supplier.price</td>
-                <td>@supplier.stock</td>
+                <td>@supplier.contact_name</td>
+                <td>@supplier.phone</td>
+                <td>@supplier.email</td>
+                <td>@supplier.address</td>
                 
                 <td>
                     <a href="/Supplier/Edit/@supplier.id">Editar</a>
