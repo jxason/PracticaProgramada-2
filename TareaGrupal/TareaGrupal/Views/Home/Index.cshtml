@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vista Dinámica</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Centrar el contenido */
+       
+
+        /* Centrar el texto y los botones */
+        #main-view {
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Contenedor de botones */
+        .button-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        /* Estilo para los botones */
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: 2px solid #4CAF50;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <div id="main-view">
+        <!-- Título -->
+        <h1>Bienvenido</h1>
+
+        <!-- Contenedor de botones -->
+        <div class="button-container">
+            <!-- Botón de Productos -->
+            <a href="/Product/Index" target="_blank">
+                <button>Ver Productos</button>
+            </a>
+
+            <!-- Botón de Clientes -->
+            <a href="/Customer/Index" target="_blank">
+                <button>Ver Clientes</button>
+            </a>
+
+            <!-- Botón de Proveedores -->
+            <a href="#" target="_blank">
+                <button>Ver Proveedores</button>
+            </a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
