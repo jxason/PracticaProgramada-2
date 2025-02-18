@@ -1,25 +1,21 @@
-﻿@model TareaGrupal.Models.Supplier
-<h2>Eliminar Proveedor</h2>
+﻿﻿@model TareaGrupal.Models.Supplier
+<h2>Eliminar Supplier</h2>
 <form method="post">
     <div class="form-group">
         <label for="name">Nombre</label>
         <input type="text" class="form-control" id="name" name="name" value="@Model.name" readonly />
     </div>
     <div class="form-group">
-        <label for="contact_name">Contacto</label>
-        <input type="text" class="form-control" id="contact_name" name="contact_name" value="@Model.contact_name" readonly />
+        <label for="description">Descripcion</label>
+        <input type="text" class="form-control" id="description" name="description" value="@Model.description" readonly />
     </div>
     <div class="form-group">
-        <label for="phone">Telefono</label>
-        <input type="text" class="form-control" id="phone" name="phone" value="@Model.phone" readonly />
+        <label for="price">Precio</label>
+        <input type="text" class="form-control" id="price" name="price" value="@Model.price" readonly />
     </div>
     <div class="form-group">
-        <label for="email">Correo</label>
-        <input type="text" class="form-control" id="email" name="email" value="@Model.email" required />
-    </div>
-    <div class="form-group">
-        <label for="address">Direccion</label>
-        <input type="text" class="form-control" id="address" name="address" value="@Model.address" required />
+        <label for="supplier_id">Proveedor</label>
+        <input type="text" class="form-control" id="supplier_id" name="supplier_id" value="@Model.supplier_id" required />
     </div>
     <button type="submit" class="btn btn-primary">Eliminar</button>
 </form>

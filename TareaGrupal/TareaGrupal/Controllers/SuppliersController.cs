@@ -21,8 +21,8 @@ namespace TareaGrupal.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var supplier = await _context.suppliers.ToListAsync();
-            return View(supplier);
+            var Supplier = await _context.suppliers.ToListAsync();
+            return View(Supplier);
         }
 
         public IActionResult Create()
@@ -31,7 +31,7 @@ namespace TareaGrupal.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id, name, contact_name, phone, email, address")] Supplier supplier)
+        public async Task<IActionResult> Create([Bind("Id, name, description, price, supplier_id")] Supplier supplier)
         {
             if (ModelState.IsValid)
             {
